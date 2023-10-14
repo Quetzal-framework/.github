@@ -7,7 +7,7 @@ diversity in complex landscapes for inference purposes.
 The general structure of this framework is the following, in order of increasing
 granularity:
 
-* [Quetzal-CoaTL](https://becheler.github.io/softwares/quetzal-CoalTL/home/) :
+* [Quetzal-CoaTL](https://quetzal-framework.github.io/quetzal-CoaTL/) :
   a library of C++ generic components for building simulators of molecular diversity. It is the most
   technical, but also the most general project on this list. Meaning, if you are
   interested by simulating genetic diversity, that may be a useful repository to check out.
